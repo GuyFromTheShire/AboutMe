@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Marek Petr</string>
+    <string name="yellow_star">Yellow star</string>
+
+    <string name="filler_text">One morning, when Gregor Samsa woke from troubled dreams,
+        he found himself transformed in his bed into a horrible vermin.
+        \n\n He lay on his armour-like back, and if he lifted his head a little he could see his brown belly,
+        slightly domed and divided by arches into stiff sections.
+        \n\nThe bedding was hardly able to cover it and seemed ready to slide off any moment.
+        \n\n His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked.
+        \n\n "What's happened to me? " he thought. It wasn\'t a dream. His room, a proper human</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">DONE</string>
+</resources>
